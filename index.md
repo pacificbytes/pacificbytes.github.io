@@ -4,8 +4,8 @@ Welcome to Rainbow Locator!
 
 ## Links
 - [Team Contract](https://docs.google.com/document/d/1jPyax2KjJcxirhOlvrwQXVIuoQ-Braw6GKhe-Pn-XDw/edit?usp=sharing)
-- [Deployment](https://rainbow-locator.vercel.app)
-- [Rainbow Location Repository](https://github.com/pacificbytes/pacificbytes.github.io)
+- [Deployment](https://rainbowlocator.vercel.app/)
+- [Rainbow Locator Repository](https://github.com/pacificbytes/rainbow-locator)
 
 ## Project Overview
 
@@ -16,7 +16,9 @@ This system aims to simplify the process of reporting lost and found items by pr
 
 The system will eventually provide:
 - **~~User Authentication~~** 
-- **~~Report Found Items~~**  
+- **~~Report Found Items~~**
+- **~~Admin Dashboard~~**
+- **User Profile**
 - **Search and Filter System**
 
 ## Team Members
