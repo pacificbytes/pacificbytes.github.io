@@ -3,9 +3,15 @@
 Welcome to Rainbow Locator!
 
 ## Links
+- [Organization](https://github.com/orgs/pacificbytes/repositories)
 - [Team Contract](https://docs.google.com/document/d/1jPyax2KjJcxirhOlvrwQXVIuoQ-Braw6GKhe-Pn-XDw/edit?usp=sharing)
+<<<<<<< HEAD
 - [Deployment](https://rainbowlocator.vercel.app/)
 - [Rainbow Locator Repository](https://github.com/pacificbytes/rainbow-locator)
+=======
+- [Deployment](https://rainbow-locator.vercel.app)
+- [Source Code](https://github.com/pacificbytes/pacificbytes.github.io)
+>>>>>>> 665a8bf (link updates)
 
 ## Project Overview
 
