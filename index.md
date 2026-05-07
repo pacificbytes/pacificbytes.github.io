@@ -1,14 +1,23 @@
 # Rainbow Locator 
 
 Welcome to Rainbow Locator!
+[![ci-rainbow-locator](https://github.com/pacifcbytes/rainbow-locator/workflows/ci-rainbow-locator/
+     badge.svg)](https://github.com/pacifcbytes/rainbow-locator/actions)
 
 ## Links
+- [User Guide](user-guide)
+- [Mockups|Milestones](mockups)
+- [Local Development Guide](development)
 - [Organization](https://github.com/orgs/pacificbytes/repositories)
 - [Team Contract](https://docs.google.com/document/d/1jPyax2KjJcxirhOlvrwQXVIuoQ-Braw6GKhe-Pn-XDw/edit?usp=sharing)
 - [Deployment](https://rainbowlocator.vercel.app/)
 - [Rainbow Locator Repository](https://github.com/pacificbytes/rainbow-locator)
-- [Deployment](https://rainbow-locator.vercel.app)
 - [Source Code](https://github.com/pacificbytes/pacificbytes.github.io)
+
+## Team Members
+- Hans Beuren Rambayon
+- Za'Niyah Smith
+- Raeanna Vance
 
 ## Project Overview
 We’ve all been there—you’re rushing across campus, get to your next spot, and realize your keys,
@@ -35,49 +44,3 @@ Admins are there to keep the community honest and the site clean. They have a bi
 the items and claims coming through. They review the messages people send to claim items, hit
 "approve" or "deny" to make sure things go to the right person, and clear out old or resolved posts so
 the list stays up to date.
-
-The system will eventually provide:
-- **~~User Authentication~~** 
-- **~~Report Found Items~~**
-- **~~Admin Dashboard~~**
-- **User Profile**
-- **Search and Filter System**
-
-## Team Members
-- Hans Beuren Rambayon
-- Za'Niyah Smith
-- Raeanna Vance
-
-## Mockup Pages | [Milestone 1](https://github.com/orgs/pacificbytes/projects/1)
-
-### Landing Page
-![Top Page](images/image.png)
-![Bottom Page](images/image-1.png)
-### Admin Dashboard
-![Admin](images/image-4.png)
-### Browse Items Page
-![Grid List](images/image-2.png)
-![List](images/image-3.png)
-### My Stuff/My Reports
-![Admin](images/image-5.png)
-
-
-## Mockup Pages 2 | [Milestone 2](https://github.com/orgs/pacificbytes/projects/2)
-
-### New Landing Page
-![Top Page](images/image-8.png)
-![Bottom Page](images/image-9.png)
-### Browse Items Details
-Submitted Item
-![Submitted Item](images/image-7.png)
-Claiming an Item
-![Claiming Item](images/image-6.png)
-
-### New Item Creation
-![Form](images/image-10.png)
-
-### Standard User Profile
-![Standard User Profile](images/image-11.png)
-
-## Mockup Pages 3 | [Milestone 3](https://github.com/orgs/pacificbytes/projects/4)
-
