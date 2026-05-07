@@ -1,7 +1,8 @@
 # Rainbow Locator 
 
 Welcome to Rainbow Locator!
-![ci-badge](https://github.com/pacifcbytes/rainbow-locator/actions/workflows/ci.yml/badge.svg)
+
+- ![ci-badge](https://github.com/pacificbytes/rainbow-locator/actions/workflows/ci.yml/badge.svg)
 
 ## Links
 - [User Guide](user-guide)
