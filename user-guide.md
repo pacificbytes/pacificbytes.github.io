@@ -116,7 +116,7 @@ If you are an administrator, you have access to additional management tools via 
 
 ## Testimonials
 
-Below is feedback from a user who requested to remain anonymous:
+Below is feedback from users who requested to remain anonymous:
 
 > “Overall, I think the website is fairly intuitive to use, but there are some things I think could be improved on. I think the category of the item should be replaced by some sort of dropdown menu. Likewise, the listing locations left up to the user might be too vague depending on who is posting it. I also think that uploaded images should be visible while browsing items without opening the specific ticket. More than one image should be able to be attached, possibly up to three images.”
 > 
