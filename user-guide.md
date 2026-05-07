@@ -7,31 +7,16 @@ title: User Guide
 
 Welcome to **Rainbow Locator**, the centralized Lost and Found platform for the University of Hawaiʻi at Mānoa community. This guide will help you navigate the system to report lost items, find found belongings, and manage your activity.
 
----
-
 ## Table of Contents
 - [Rainbow Locator - User Guide](#rainbow-locator---user-guide)
-  - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
-    - [Creating an Account](#creating-an-account)
-    - [Logging In](#logging-in)
-  - [](#)
   - [Reporting an Item](#reporting-an-item)
   - [Browsing and Searching](#browsing-and-searching)
-    - [Browsing Listings](#browsing-listings)
-    - [Searching and Filtering](#searching-and-filtering)
-  - [](#-1)
   - [Claiming an Item](#claiming-an-item)
-  - [](#-2)
   - [Managing Your Reports](#managing-your-reports)
-  - [](#-3)
   - [Your Profile and Settings](#your-profile-and-settings)
-    - [Viewing Your Profile](#viewing-your-profile)
-    - [Changing Your Password](#changing-your-password)
   - [Administrator Features](#administrator-features)
   - [Testimonials](#testimonials)
-
----
 
 ## Getting Started
 

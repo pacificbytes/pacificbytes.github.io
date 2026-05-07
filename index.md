@@ -1,12 +1,11 @@
 # Rainbow Locator 
 
 Welcome to Rainbow Locator!
-[![ci-rainbow-locator](https://github.com/pacifcbytes/rainbow-locator/workflows/ci-rainbow-locator/
-     badge.svg)](https://github.com/pacifcbytes/rainbow-locator/actions)
+![ci-badge](https://github.com/pacifcbytes/rainbow-locator/actions/workflows/ci.yml/badge.svg)
 
 ## Links
 - [User Guide](user-guide)
-- [Mockups|Milestones](mockups)
+- [Mockups & Milestones](mockups)
 - [Local Development Guide](development)
 - [Organization](https://github.com/orgs/pacificbytes/repositories)
 - [Team Contract](https://docs.google.com/document/d/1jPyax2KjJcxirhOlvrwQXVIuoQ-Braw6GKhe-Pn-XDw/edit?usp=sharing)
