@@ -13,6 +13,7 @@ Welcome to Rainbow Locator!
 - [Deployment](https://rainbowlocator.vercel.app/)
 - [Rainbow Locator Repository](https://github.com/pacificbytes/rainbow-locator)
 - [Source Code](https://github.com/pacificbytes/pacificbytes.github.io)
+- [Effort Estimation](https://docs.google.com/spreadsheets/d/1MyhIzunl-JGyKGs2C15-izxw71d-Kto5HXKoFQg0KX8/edit?usp=sharing)
 
 ## Team Members
 - Hans Beuren Rambayon
